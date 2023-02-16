@@ -10,13 +10,13 @@
 
 ## Код таймера
 
-'''
+```
 Output:
 cos of double angle in process...
 Time passed: 311ms
 
 sin of double angle in process...
 Time passed: 468ms
-'''
+```
 
 Код смотреть в файле 'timer.cpp'.
